@@ -1,0 +1,14 @@
+# package directories
+node_modules
+package-lock.json
+jspm_packages
+npm-debug.log
+
+# Serverless directories
+.serverless
+.webpack
+*.iml
+.idea
+.DS_Store
+.nyc_output
+coverage

@@ -1,0 +1,24 @@
+{
+  "name": "npm-org-login",
+  "version": "1.0.0",
+  "description": "create a local .npmrc file with auth so build machines can use npm orgs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kjuib/npm-org-login.git"
+  },
+  "keywords": [
+    "npm",
+    "npmrc",
+    "org"
+  ],
+  "author": "Kjuib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kjuib/npm-org-login/issues"
+  },
+  "homepage": "https://github.com/Kjuib/npm-org-login#readme"
+}
